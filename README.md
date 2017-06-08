@@ -47,3 +47,7 @@ We believe in the power of celebration and on creating the space for people to s
 | Can do attitude, when appropriate - Yes, how can I help? | Constantly reads and experiments with new things. | Avoids dogma and reasons from first principles. | Is good at differentiating inputs from outputs when setting goals. | Able to work towards a goal with imperfect information. | High quality LinkedIn/Twitter network. |
 | Proposes and promotes creative solutions when problem solving | Has a method for learning. | Separates emotions from decisions. | Is not scared to say “no” to things that are not a priority. | Recognizes when he doesn’t know something and relentlessly seeks empirical answers. | Has a track record of attracting, integrating, and retaining great talent. |
 
+**Esteban Reyes**
+Chairman & CEO
+////////////////////////////////////////////
+
