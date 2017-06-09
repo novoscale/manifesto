@@ -24,9 +24,6 @@ Our promise is to relentlessly focus on our customers and stay true to our core 
 ### Relentless Customer Focus
 Everything we do has the ultimate goal of delighting our customers by providing a top of line cloud service. From sales to finance and all teams in between, our office layout is created with our customers at the center. We will always ask ourselves the question: "is this something that will have a better impact on customer experience?" Our decisions will be driven having that as a north, and we will never compromise the quality in what we do. We will combine our fanatic discipline with empirical creativity to achieve the best outcomes.
 We are not simply an outsourcing company that offers a standard service, we are a team that always pushes ourselves to be better, more competitive, and go above and beyond our client’s expectations. We will develop strong relationships with our partners to achieve that.
- 
-### Think at Scale
-Time is precious. Everything we embark on will aim to simplify and automatize the way we operate, avoiding inefficiencies, redundancies and time waste at all costs. From staff meetings, to sales strategy and office expansion, we will constantly aim to answer if what we are doing is scalable: can this be done for 100, 1000, 1000000 people? How can we simplify the steps to make this scalable and inclusive? Scale brings consistency and growth and we will require that everyone in our team has scalability as a mindset.
 
 ### Inspire Performance
 The greatest achievements were made by people with drive, tenacity, and risk taking spirit. Each of us has the responsibility of driving our lives, inside and outside of work. We will help our managers and leaders in supporting their teams' growth and development. We will provide the environment where drive is always allowed and high performance is always encouraged. We will invest time, effort, and money in making sure we hire and develop the best managers able to build high performing teams, adapt in the face of uncertainty and cast a shadow of behaviors for others to follow. We will also provide the working environment that promotes the best performance, and we will reinforce accountability. Each of us will have the responsibility of pushing through our goals, delivering on our commitments all while developing our careers.
@@ -36,6 +33,9 @@ We are not a company that will play by the book. We will always ask ourselves ho
  
 ### Be Noble
 We take creating an environment of respect, collaboration and partnership very seriously. In every meeting, email, or chat we send, everyone should assume positive intent and aim to help address what is going on. Delivery and professionalism will be key, and we will not compromise the quality; nor, will we accept excuses without a proposed solution plan. We believe in the power of celebration and in creating the space for people to share openly, speak up, and reach out. We will expect our NovoScalers to always be ready to lend a hand. We do not believe in hierarchies where top executives are far away and mysterious; we consider ourselves a team. 
+
+### Think at Scale
+Time is precious. Everything we embark on will aim to simplify and automatize the way we operate, avoiding inefficiencies, redundancies and time waste at all costs. From staff meetings, to sales strategy and office expansion, we will constantly aim to answer if what we are doing is scalable: can this be done for 100, 1000, 1000000 people? How can we simplify the steps to make this scalable and inclusive? Scale brings consistency and growth and we will require that everyone in our team has scalability as a mindset.
 
 ### Our Leadership Principles - Our Leaders:
 | Get things done | Are empirical learners | Ask why| Prioritize key tasks | Excel in ambiguity | Lead & inspire |
