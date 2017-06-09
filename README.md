@@ -37,7 +37,7 @@ We are not a company that will play by the book. We will always ask ourselves ho
 ### Be Noble
 We take creating an environment of respect, collaboration and partnership very seriously. In every meeting, email, or chat we send, everyone should assume positive intent and aim to help address what is going on. Delivery and professionalism will be key, and we will not compromise the quality; nor, will we accept excuses without a proposed solution plan. We believe in the power of celebration and in creating the space for people to share openly, speak up, and reach out. We will expect our NovoScalers to always be ready to lend a hand. We do not believe in hierarchies where top executives are far away and mysterious; we consider ourselves a team. 
 
-### Our Leadership Principles
+### Our leadership principles, our leaders
 | Get things done | Are empirical learners | Ask why| Prioritize key tasks | Excel in ambiguity | Lead & inspire |
 | ---	| ---	| ---	| ---	| ---	| ---	|
 | Can give multiple examples of taking initiative without instruction | Can demonstrate a track record of deconstructing and mastering new skills faster than avg. | Doesn’t know it all… Gets facts and considers all viable alternatives before arriving to a conclusion. | Can coherently prioritize and explain her logic in doing so. | Has delivered successful results  in startups or fast growing companies before. | Peers, employees, and superiors provide amazing references (“delivers results”) |
