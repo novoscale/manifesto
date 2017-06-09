@@ -4,22 +4,22 @@
  
 Our Mission: We use automation to radically simplify the enterprise cloud journey. 
  
-Our Vision: To power the future of business software by creating experiences customers love.
+Our Vision: To power the future of business software by creating experiences our customers love.
  
 Our Values:
 * Relentless customer focus - create magical experiences for our customers by wearing their shoes. Solve real problems.
 * Think at scale - avoid rework. Prioritize the things that enable our growth.
 * Inspire performance - lead with results by raising your own bar, unlock the spirit of challenge in others.
-* Be noble - no BS: do as you say, and treat others with respect.
+* Be noble - no nonsense: do as you say and treat others with respect.
 * Be bold - build the future you want in the here and now. 
  
 ## About our Manifesto
 
-At novo/scale, we are a team that strongly believes in the power of simplification. Everything we do is done with the purpose of making our customer's and end-user's cloud journey seamless, effective, and easy. We acknowledge that the cloud is currently a fast growing sector within the IT industry and is forever changing the way businesses operate. Most people find the cloud to be complex, and they ask questions like: "how do I provide timely support to my users?", "how do I operate cloud software effectively and efficiently?", “who should I hire?”, "what methods and tools should I use?", and it goes on and on and on.
+At novo/scale, we are a team that strongly believes in the power of simplification. We do everything with the purpose of making our customer's and end-user's cloud journey seamless, effective, and easy. We acknowledge that the cloud is currently a fast growing sector within the IT industry and is forever changing the way businesses operate. Most people find the cloud to be complex, and they ask questions like: "how do I provide timely support to my users?", "how do I operate cloud software effectively and efficiently?", “who should I hire?”, "what methods and tools should I use?"
  
 At novo/scale, we join our customers on their cloud journey by making it radically simple. We combine certified engineers with automation and make it easy for them to manage and enhance their cloud software. Our ultimate goal is to power the future of business software by creating experiences our customers love.
  
-Our promise is to relentlessly focus on our customers and stay true to our core values. We will not change the way we operate if the company goes public, as these are the values that shaped our mission and our day-to-day work from Day 1.
+Our promise is to relentlessly focus on our customers and stay true to our core values. We will not change the way we operate if the company goes public, as these are the values that shaped our mission and our day-to-day work from day one.
  
 ### Relentless Customer Focus
 Everything we do has the ultimate goal of delighting our customers by providing a top of line cloud service. From sales to finance and all teams in between, our office layout is created with our customers at the center. We will always ask ourselves the question: "is this something that will have a better impact on customer experience?" Our decisions will be driven having that as a north, and we will never compromise the quality in what we do. We will combine our fanatic discipline with empirical creativity to achieve the best outcomes.
